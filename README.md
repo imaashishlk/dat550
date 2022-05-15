@@ -34,13 +34,13 @@ Under the data folder (submission):
 - Snopes (snopes.json)
 
 
-1 **Data Collection**: Import the necessary libraries. We have two dataset saved as json files, the first file contains data from politifact website and the second file contains data from snopes website. The two dataset consist of multiclassification label.
+1. **Data Collection**: Import the necessary libraries. We have two dataset saved as json files, the first file contains data from politifact website and the second file contains data from snopes website. The two dataset consist of multiclassification label.
 
-Politifact data contains the following columns: 'claim', 'doc', 'label', 'factchecker', 'published', 'speaker', 'date_stated', 'stated_in', 'url', 'topic', 'sources', 'summary'
+- Politifact data contains the following columns: 'claim', 'doc', 'label', 'factchecker', 'published', 'speaker', 'date_stated', 'stated_in', 'url', 'topic', 'sources', 'summary'
 
-Snopes data contains the following columns: 'label', 'claim', 'doc', 'factchecker', 'published', 'url', 'topic', 'sources', 'extra_description'
+- Snopes data contains the following columns: 'label', 'claim', 'doc', 'factchecker', 'published', 'url', 'topic', 'sources', 'extra_description'
 
-2 **Exploring and Data visualization:**
+2. **Exploring and Data visualization:**
 
 - Printing column name of each data sets and choosing most common columns like label,claim and doc.
 - Merging two datasets into one data and finding the unique label using thresold function.
@@ -56,14 +56,13 @@ Snopes data contains the following columns: 'label', 'claim', 'doc', 'factchecke
 
 4. **Splitting the data into training and testing parts**
 
-5.**Feature extraction & Classification Models**
+5. **Feature extraction & Classification Models**
 
 - Using TF-IDF bagofwords & pre-trainded word Embedding GloVe.
 - Applying simple Machine learning Model and check the accuracy.
 - Applying Deep Neural Network Classifier (LSTM, Bert) and make display all visualization using tensorboard.
 
-6. Evaluating the models and comparing between classifier models.
-
+6. **Evaluating the models and comparing between classifier models.**
 
 **Contributors:**
 
