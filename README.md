@@ -26,7 +26,7 @@ The notebook file can be easily run to reproduce the results as shown on the rep
 
 **Dataset Used:**
 
-Under the data folder:
+Under the data folder (submission):
 - Politifact (politifact.json)
 - Snopes (snopes.json)
 
