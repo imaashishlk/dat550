@@ -24,7 +24,8 @@ For example,
 
 The notebook file can be easily run to reproduce the results as shown on the report. The pre-run outputs are still demonstrated on the notebook file.
 
-**Note:** To run LSTM Model you need to install glove.6B.100d.txt
+**Note:** To run LSTM Model you need to install glove.6B.100d
+
 We can install glove.6B from https://nlp.stanford.edu/projects/glove/
 
 **Dataset Used:**
@@ -33,6 +34,7 @@ Under the data folder (submission):
 - Politifact (politifact.json)
 - Snopes (snopes.json)
 
+**DATASET LINK**: https://drive.google.com/file/d/1OcSQW1_bqahgKn5krQWY9Le8VGyY2utX/view
 
 1. **Data Collection**: Import the necessary libraries. We have two dataset saved as json files, the first file contains data from politifact website and the second file contains data from snopes website. The two dataset consist of multiclassification label.
 
