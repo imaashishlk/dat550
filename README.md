@@ -1,4 +1,4 @@
-# dat550
+# DAT550 Project
 Project as on DAT550 - Data Mining and Deep Learning
 
 **_We used Google Collab in deriving the final file. The initial cells used in linking the Google Drive and visualizing the directory can be ignored._**
