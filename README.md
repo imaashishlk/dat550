@@ -24,6 +24,8 @@ For example,
 
 The notebook file can be easily run to reproduce the results as shown on the report. The pre-run outputs are still demonstrated on the notebook file.
 
+**Note:** To run LSTM Model you need to install glove.6B.100d.txt
+
 **Dataset Used:**
 
 Under the data folder (submission):
