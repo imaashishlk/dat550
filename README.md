@@ -3,7 +3,7 @@ Project as on DAT550 - Data Mining and Deep Learning
 
 **_We used Google Collab in deriving the final file. The initial cells used in linking the Google Drive and visualizing the directory can be ignored._**
 
-This project is the implementation of Fake News Detection using Snopes and Politifact Data in which we use different methods in generating or detecting the news as either a real or fake ones. The packages used in the methods and the way to interpret is shown below.
+The project aims at exploring the various machine learning techniques for detection and analysis of fake news from real news. We are comparing several classifying techniques and implementing neural network approach to explore the model and to detect false news.
 
 **Packages Used:**
 - Numpy
@@ -23,3 +23,16 @@ For example,
 - **!pip install tensorflow_text**
 
 The notebook file can be easily run to reproduce the results as shown on the report. The pre-run outputs are still demonstrated on the notebook file.
+
+**Dataset Used:**
+
+Under the data folder:
+- Politifact (politifact.json)
+- Snopes (snopes.json)
+
+**Contributors:**
+
+- Shaima Ahmad Freja
+- Vinothini Aravindan
+- Aashish Karki
+- Yeganeh Hallaj
