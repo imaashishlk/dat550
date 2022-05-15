@@ -1,6 +1,8 @@
 # dat550
 Project as on DAT550 - Data Mining and Deep Learning
 
+**_We used Google Collab in deriving the final file. The initial cells used in linking the Google Drive and visualizing the directory can be ignored._**
+
 This project is the implementation of Fake News Detection using Snopes and Politifact Data in which we use different methods in generating or detecting the news as either a real or fake ones. The packages used in the methods and the way to interpret is shown below.
 
 **Packages Used:**
